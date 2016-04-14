@@ -1,2 +1,2 @@
 # JavaOnDuty
-Just a Onduty written by Java.
+Just an Onduty written by Java.
